@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+  font-family: "Work Sans", sans-serif;
+}
+
+/* custom button  */
+.btn-primary {
+  background-color: #e55473;
+  border: none;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 7px;
+}
+
+/* header design part  */
+.header {
+  display: flex;
+  background-color: #e554732a;
+  align-items: center;
+  justify-content: center;
+}
+.header > img {
+  height: 500px;
+}
+
+.header-poster > h1 {
+  font-size: 55px;
+}
+.header-poster p {
+  color: #27272781;
+}
