@@ -31,3 +31,45 @@ body {
 .header-poster p {
   color: #27272781;
 }
+
+/* feature images desing  */
+.feature-flower {
+  margin-top: 80px;
+}
+.feature-img-main-div {
+  display: flex;
+  width: 70%;
+  margin: 0 auto;
+  justify-content: space-between;
+  margin-top: 33px;
+}
+.feature-title {
+  text-align: center;
+}
+.feature-title h3 {
+  font-size: 2em;
+}
+.feature-title p {
+  font-size: 14px;
+}
+.img img {
+  height: 200px;
+  border-radius: 50% 50% 0 0;
+
+  padding: 55px;
+}
+.img > h5 {
+  text-align: center;
+  color: #27272781;
+  text-decoration: underline;
+}
+
+.img-one {
+  background-color: #a7216250;
+}
+.img-two {
+  background-color: #0598a049;
+}
+.img-three {
+  background-color: #477d1159;
+}
