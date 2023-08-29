@@ -32,7 +32,7 @@ body {
   color: #27272781;
 }
 
-/* feature images desing  */
+/* feature images design  */
 .feature-flower {
   margin-top: 80px;
 }
@@ -51,6 +51,7 @@ body {
 }
 .feature-title p {
   font-size: 14px;
+  color: #27272781;
 }
 .img img {
   height: 200px;
@@ -72,4 +73,22 @@ body {
 }
 .img-three {
   background-color: #477d1159;
+}
+/* hot deal design  */
+.hot-deal {
+  background-color: #e554732a;
+}
+.main-deals {
+  margin: 53px auto;
+  display: flex;
+  align-items: center;
+
+  width: 70%;
+}
+.hot-deal-text > p {
+  font-size: 12px;
+  color: #27272781;
+}
+.hot-deal-text > h1 > span {
+  color: #e55473;
 }
