@@ -152,3 +152,14 @@ body {
 .extra-text {
   text-align: center;
 }
+
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 300px;
+  padding-top: 76px;
+}
+.footer > h1 > span {
+  color: #e55473;
+}
