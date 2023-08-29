@@ -92,3 +92,26 @@ body {
 .hot-deal-text > h1 > span {
   color: #e55473;
 }
+
+/* insta part design  */
+.insta-img > img {
+  height: 320px;
+}
+
+.insta-img {
+  display: flex;
+  gap: 6px;
+  margin: 44px 0;
+  justify-content: center;
+  align-items: center;
+}
+.insta-text {
+  text-align: center;
+}
+.insta-text > p {
+  font-size: 12px;
+  color: #27272781;
+}
+.instagram {
+  margin: 85px 0;
+}
